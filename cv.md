@@ -1,5 +1,5 @@
 # Denis Shershen
-<h2>Contacts:</h2>
+<h2>Contacts</h2>
 <ul>
     <li> Telegram: <a href='https://t.me/username1756'>Denis</a></li>
     <li> Github: <a href='https://github.com/CultENOT'>CultENOT</a></li>
@@ -7,14 +7,35 @@
     <li> Email: <a href='#'>densher03@gmail.com</a></li>
 </ul>
 <hr>
-<h2>About me:</h2>
+<h2>About me</h2>
 <p>I have a good communication skills and always could be find new acquaintances. I have been fond of programming since school, but only now I decided to choose this direction as a full-time job. I do workout in my free time. Give me the opportunity to show myself and you will not regret it!</p>
 <hr>
-<h2>Skills:</h2>
+<h2>Skills</h2>
 <ul>
     <li>HTML</li>
     <li>CSS</li>
     <li>Basics of JS</li>
     <li>Basics of Git</li>
+    <li>VS Code</li>
+    <li>OS Windows</li>
 </ul>
-
+<hr>
+<h2>Code example</h2>
+'use strict' <br>
+function checkAge(age) { <br>
+    let res = (age>18) ?  true: confirm('Родители разрешили?') <br>
+    return res <br>
+}   
+<hr>
+<h2>Education<h2>  
+<ul> 
+    <li><a href="https://www.youtube.com/watch?v=zIJ1gymU3SE&list=PLOjCcvKYFQgKJbtVl59u_wq2Mk73-gl4E&pp=iAQB">HTML & CSS курс 2.0</a></li>
+    <li><a href="https://www.udemy.com/course/frontend-html-css-javascript/">Frontend разработчик на HTML, CSS и JavaScript</a></li>
+</ul>
+<hr>
+<h2>Languages</h2>
+<ul>
+    <li>Russian (native)</li>
+    <li>Belarussian (intermediate)</li>
+    <li>English (B1)</li>
+</ul>
