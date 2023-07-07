@@ -1,4 +1,4 @@
 # rsschool-cv
 https://CultENOT.github.io/rsschool-cv/cv
 ---
-https://CultENOT.github.io/rsschool-cv/main
+https://CultENOT.github.io/rsschool-cv/index
