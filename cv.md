@@ -14,8 +14,8 @@ I have a good communication skills and always could be find new acquaintances. I
 
 * HTML
 * CSS
-* Basics of JS
-* Basics of Git
+* JS
+* Git
 * VS Code
 * OS Windows
 
